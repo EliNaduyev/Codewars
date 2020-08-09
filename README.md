@@ -28,7 +28,7 @@ The user can navigate to his profile page and see his personal information, stat
 ### How to install
 Clone the repository:
 ```
-git clone https://github.com/MariaGarber/Codewars.git
+git clone https://github.com/EliNaduyev/Codewars.git
 ```
 Enter the clonned folder:
 ```
