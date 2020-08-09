@@ -4,7 +4,7 @@ Codewars it is a learning environment that offers the user another way to learn 
 
 **Live Demo (not mobile friendly):** https://codewars-project.netlify.app/
 
-<img src="screenshots/home_page.png"/>
+<img src="screenshots/home_page .png"/>
 
 After The registration the user must pass the Level Test which will determine his programming level and immediately afterwards he can start competing with other users around the world whose programming level is the same.
 
@@ -12,7 +12,7 @@ After The registration the user must pass the Level Test which will determine hi
 
 At the war page, each user can see the random challenge and the editor where he could write his code. In addition, there is a "run code" button to check the code before submitting, timer and "submit" button. After clicking on the "submit" button, the timer will start to countdown 15 seconds, It would be the maximum time for the opponent to finish his code, after a 15 seconds the answer will be submitted automatically to the assessment tool and each user will be transferred to a result page where he will get his score.
 
-<img src="screenshots/profile_page.png"/>
+<img src="screenshots/profile_page .png"/>
 
 The user can navigate to his profile page and see his personal information, statistics, last wars and his friends list. Also, he can navigate to other users profile pages, send them friend requests, see theirs personal information, statistics and etc.
 
