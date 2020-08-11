@@ -6,7 +6,7 @@ Codewars it is a learning environment that offers the user another way to learn 
 
 <img src="screenshots/home_page .png"/>
 
-After the registration users will required to pass the "Level Test" which will determine their programming level and immediately afterwards they can start competing with other users around the world whose programming level is the same.
+After the registration users will required to pass the "Level Test" which will determine their programming level and immediately afterwards they can start competing against other users around the world whose programming level is the same.
 
 <img src="screenshots/war_room.png"/>
 
